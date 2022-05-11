@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Evazquezcid
+- 👋 Hi, I’m @estherVazquezCid
 - 👀 I’m interested in ...SNEAKERS 👟🖤 , BURGERS AND PROGRAMMING.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...CSS,HTML & JS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...esthervazquezcid@gmail.com
 
 <!---
 Evazquezcid/Evazquezcid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
