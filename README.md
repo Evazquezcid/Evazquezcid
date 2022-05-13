@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @estherVazquezCid
 - 👀 I’m interested in ...SNEAKERS 👟🖤 , BURGERS AND PROGRAMMING.
 - 🌱 I’m currently learning ...CSS,HTML & JS.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...esthervazquezcid@gmail.com
 
 <!---
