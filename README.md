@@ -8,4 +8,4 @@
 
 
 
-https://midu.dev/images/wallpapers/dino-not-found-rainbow-4k-wallpaper.png
+
