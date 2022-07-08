@@ -4,9 +4,9 @@
 - 👀 I’m interested in ...SNEAKERS 👟🖤 , BURGERS AND PROGRAMMING.
 - Dandole caña a  ...CSS,HTML,JS,MongoDb,Angular.
 
-Estoy apunto de acabar mi bootcam de pogramación y a falta de mi proyecto final por aqui puedes ir viendo algo de mi recorrido. Me falta mucho "casi todo" por aprender pero crecer , compartir y disfrutar es algo que no me falta. ¿ Te animas a conocernos ? 
+ Estoy apunto de acabar mi Bootcamp de pogramación y a falta de mi proyecto final por aqui puedes ir viendo algo de mi recorrido. Me falta mucho "casi todo" por aprender pero crecer , compartir y disfrutar es algo que no me falta. ¿ Te animas a conocernos ? 
 
-"Nuestras diferencias son nuestra fuerza"
+"Nuestras diferencias nos hacen mas fuertes"
 
 - 📫 estoy al otro lado de este email 🤗 ...esthervazquezcid@gmail.com
 
