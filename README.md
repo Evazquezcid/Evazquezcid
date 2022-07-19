@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @estherVazquezCid
 
+Herramientas:  HTML; CSS; JS; REACT; ANGULAR; MONGODB; NODEJS; SASS; GIT;
 
 Estoy buscando un nuevo reto en el que poder desarrollarme en el mundo developer. Me falta mucho por aprender pero crecer , compartir y disfrutar es algo que no me falta. ¿ Te animas a conocernos ? Yo daré mi mejor versión para pode crecer juntos y compartir este camino. 
 
