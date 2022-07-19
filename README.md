@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @estherVazquezCid
 
 
-Estoy apunto de acabar mi Bootcamp de pogramación y a falta de mi proyecto final por aqui puedes ir viendo algo de mi recorrido. Me falta   mucho "casi todo" por aprender pero crecer , compartir y disfrutar es algo que no me falta. ¿ Te animas a conocernos ? 
+Estoy buscando un nuevo reto en el que poder desarrollarme en el mundo developer. Me falta mucho por aprender pero crecer , compartir y disfrutar es algo que no me falta. ¿ Te animas a conocernos ? Yo daré mi mejor versión para pode crecer juntos y compartir este camino. 
 
 "Nuestras diferencias nos hacen mas fuertes"
 --------------------------------------------------------------------------------------------------------------------------------------
