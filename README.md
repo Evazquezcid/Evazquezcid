@@ -16,9 +16,7 @@ Algunos proyectos desplegados en Vercel. Enjoy 🚀
 
 ⒉ https://cronometro-react-one.vercel.app/ - Un Cronometro, una cuenta atrás para ir a la playa y la hora peninsular en directo! Tic. Tac...
 
-⒊ https://cv-react-pearl.vercel.app/ . Mi Cv ,muy basiquito , hecho con React en el que según al botón que des puedes ver una info y otra! 
-
-⒋ https://aut-react-evazquezcid.vercel.app/register . Una pagina en la que para poder ver la galeria tienes que registrarte como usuario. ¿mola eh? 😜 
+3.https://aut-react-evazquezcid.vercel.app/register . Una pagina en la que para poder ver la galeria tienes que registrarte como usuario. ¿mola eh? 😜 
 
  Tambien he hecho una PokeApi, claro pero supongo que ya has visto muchas muchas más! 👾
 
