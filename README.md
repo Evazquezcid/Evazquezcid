@@ -12,6 +12,8 @@ Estoy buscando un nuevo reto en el que poder desarrollarme en el mundo developer
 
 Algunos proyectos desplegados en Vercel. Enjoy 🚀
 
+Freelance- Encargo. Me he lanzado hacer la pagina web para un estudio Malagueño de tatuajes. Estoy trabajando en él pero aqui puedes ir viendo el proceso. https://studiosoho.vercel.app/
+
 1😍.https://upgrade-hub-protectora.vercel.app/ . Proyeztazo final de Bootcamp junto a 4 de mis compañeros, hecho con React, importación de frameworks, Carousel, MailJs, BootChat... 
 
 2. https://api-rick-morty-mu.vercel.app/ - recojo los datos de la Api de Ricky&Morty y hago carta detalle de cada uno de sus personajes con su correspondiente formulario. Angular.
