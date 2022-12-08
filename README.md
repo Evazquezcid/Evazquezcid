@@ -2,6 +2,9 @@
 
 - 👋 Hi, I’m @estherVazquezCid
 
+!!OPEN TO WORK!!
+
+ 
 Herramientas:  HTML; CSS; JS; REACT; ANGULAR; MONGODB; NODEJS; SASS; GIT;
 
 Estoy buscando un nuevo reto en el que poder desarrollarme en el mundo developer. Me falta mucho por aprender pero crecer , compartir y disfrutar es algo que no me falta. ¿ Te animas a conocernos ? Yo daré mi mejor versión para pode crecer juntos y compartir este camino. 
@@ -12,9 +15,9 @@ Estoy buscando un nuevo reto en el que poder desarrollarme en el mundo developer
 
 Algunos proyectos desplegados en Vercel. Enjoy 🚀
 
-Freelance- Encargo. Me he lanzado hacer la pagina web para un estudio Malagueño de tatuajes. Estoy trabajando en él pero aqui puedes ir viendo el proceso. https://studiosoho.vercel.app/
+FREELANCE- Encargo. Me he lanzado hacer la pagina web para un estudio Malagueño de tatuajes. Estoy trabajando en él pero aqui puedes ir viendo el proceso. https://studiosoho.vercel.app/
 
-1😍.https://upgrade-hub-protectora.vercel.app/ . Proyectazo final de Bootcamp junto a 4 de mis compañeros, hecho con React, importación de frameworks, Carousel, MailJs, BootChat... 
+1.https://upgrade-hub-protectora.vercel.app/ . Proyectazo final de Bootcamp junto a 4 de mis compañeros, hecho con React, importación de frameworks, Carousel, MailJs, BootChat... 
 
 2. https://api-rick-morty-mu.vercel.app/ - recojo los datos de la Api de Ricky&Morty y hago carta detalle de cada uno de sus personajes con su correspondiente formulario. Angular.
 
@@ -25,7 +28,7 @@ Freelance- Encargo. Me he lanzado hacer la pagina web para un estudio Malagueño
 
 5.https://netflix-copy-self.vercel.app/ . La pagina de referencia es Netflix y la programamos siguiendo la misma estetica con Angular.
 
-
+6.https://piedrapapelotijera.vercel.app/ Juego de piedra papel o tijera, afianzar JAVASCRIP siempre es un buen punto!
 
  Tambien he hecho una PokeApi, un clasico que no puede faltar ! https://pokeaplicacion.vercel.app/ 👾
 
