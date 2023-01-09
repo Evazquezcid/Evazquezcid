@@ -4,13 +4,19 @@
 
 !!OPEN TO WORK!!
 
- 
-Herramientas:  HTML; CSS; JS; REACT; ANGULAR; MONGODB; NODEJS; SASS; GIT;
+Tengo conocimientos en las siguiente herramientas;
+- Herramientas:  HTML; CSS; JS; REACT; ANGULAR; MONGODB; NODEJS; SASS; GIT;
 
 Estoy buscando un nuevo reto en el que poder desarrollarme en el mundo developer. Me falta mucho por aprender pero crecer , compartir y disfrutar es algo que no me falta. ¿ Te animas a conocernos ? Yo daré mi mejor versión para pode crecer juntos y compartir este camino. 
 
+
+
 "Nuestras diferencias nos hacen mas fuertes"
 --------------------------------------------------------------------------------------------------------------------------------------
+
+
+❗️❗️❗️Aqui puedes ver mi CV en REACT ---> https://esther-pi.vercel.app/❗️❗️❗️
+
 
 
 Algunos proyectos desplegados en Vercel. Enjoy 🚀
